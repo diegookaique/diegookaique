@@ -42,7 +42,6 @@
 ☁️ Cloud:                   AWS S3         | Google BigQuery
 ```
 
-## 🌟 Projetos de Destaque
-
-
 ## 📊 GitHub Analytics
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=diegookaique&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/diegookaique)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=diegookaique&layout=compact&theme=dark&hide_border=true)](https://github.com/diegookaique)
