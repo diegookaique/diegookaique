@@ -7,7 +7,6 @@
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 ## 🎓 Trajetória Acadêmica
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx5d3NwZ2V1cmxqOGg3ZWh5dHl6c3N6a2l5M3RjZ3F0Z3V3b3lmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1UOMDl2Dk3zI4/giphy.gif" width="250">
 
 **Formação Principal**  
 `📊 2025-Atual | EBAC`  
