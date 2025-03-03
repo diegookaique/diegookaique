@@ -1,4 +1,6 @@
-# 👨💻 Olá, eu sou Diego Kaique! 👋  | Cientista de Dados em Formação
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1BA8F7&width=435&lines=%F0%9F%92%BB%F0%9F%91%A8%F0%9F%8F%BE+Ol%C3%A1!;Eu+sou+Diego+Kaique%F0%9F%91%8B%F0%9F%8F%BE;+Cientista+de+Dados+em+Forma%C3%A7%C3%A3o+%E2%8C%9B)](https://git.io/typing-svg)
+
+
 
 [![Brasil](https://img.shields.io/badge/-Brasileiro-009C3B?logo=openstreetmap&logoColor=white)](https://www.gov.br/pt-br)
 [![EBAC](https://img.shields.io/badge/EBAC-Student-8A2BE2?logo=academia&logoColor=white)](https://ebaconline.com.br)
