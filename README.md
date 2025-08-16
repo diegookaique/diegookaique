@@ -36,7 +36,7 @@
 
 - Projeto de pontuação de crédito: construiu modelos estatísticos para prever e explicar pontuações de crédito usando Python e Análise Exploratória.
 - Dados de telecomunicações: processo ETL, análise de rotatividade de clientes e monitoramento de métricas para conjuntos de dados de telecomunicações.
-- Análise de Descontos e Preços por Categoria da Base de Supermecado
+- Análise de Descontos e Preços por Categoria da Base de Supermercado
 
 ## 🛠 Stack Técnica Atual
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)](https://www.python.org)
