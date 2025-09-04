@@ -34,7 +34,7 @@
 
 ## 📌 Projetos em Destaque
 
-- Projeto que prever valores de Aluguel: Modelo que explora os conceitos básicos de análise e modelagem de dados usando Regressão Linear para prever valores de Aluguel
+- Desenvolvimento de modelo preditivo de preços de aluguel com base em dados reais.
 - Projeto de pontuação de crédito: Modelos estatísticos para prever e explicar pontuações de crédito usando Python e Análise Exploratória.
 - Dados de telecomunicações: Processo ETL, análise de rotatividade de clientes e monitoramento de métricas para conjuntos de dados de telecomunicações.
 - Análise de Descontos e Preços por Categoria da Base de Supermercado
