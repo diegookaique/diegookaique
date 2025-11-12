@@ -34,6 +34,7 @@
 
 ## 📌 Projetos em Destaque
 
+- Projeto que foca na integração e análise inicial de dados de transações e clientes de um e-commerce. 
 - Desenvolvimento de modelo preditivo de preços de aluguel com base em dados reais.
 - Projeto de pontuação de crédito: Modelos estatísticos para prever e explicar pontuações de crédito usando Python e Análise Exploratória.
 - Dados de telecomunicações: Processo ETL, análise de rotatividade de clientes e monitoramento de métricas para conjuntos de dados de telecomunicações.
