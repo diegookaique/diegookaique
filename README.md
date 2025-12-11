@@ -12,10 +12,13 @@
 
 ## 🚀 Sobre Mim
 
-Profissional em transição para Ciência de Dados, com sólida experiência em análise de dados operacionais, melhoria de processos e liderança de equipes.
-Tenho forte capacidade de interpretação de dados, pensamento analítico e comunicação orientada a resultados.
+Analista de Dados / Cientista de Dados em transição, com superior completo em outra área e experiência sólida em operações, análise de processos e liderança.
 
-Atualmente busco oportunidades para aplicar minhas habilidades em Python, SQL, BI e Machine Learning em projetos que gerem impacto real nas organizações.
+Atualmente em formação em Ciência de Dados, aplicando Python, SQL, Machine Learning e BI em projetos práticos voltados para análise, modelagem e extração de insights para apoiar decisões estratégicas.
+
+Minha trajetória profissional fortaleceu competências essenciais na área — pensamento analítico, organização, tomada de decisão e comunicação de dados.
+
+Busco oportunidades como Analista de Dados ou Cientista de Dados, contribuindo com soluções analíticas e otimização de processos.
 
   
 ## 🎓 Trajetória Acadêmica
