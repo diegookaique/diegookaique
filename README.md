@@ -1,5 +1,5 @@
-# 💻 Olá! Eu sou o Diego Kaique
-## 📍 Salvador, BA | 📈 Ciência de Dados | 🎯 Business Intelligence | 🎓 Formação em Fisioterapia | 🚀 Transição de Carreira Data Analytics
+#  Olá! Eu sou o Diego Kaique
+## 📍 Salvador, BA | 📈 Analista de Dados | Cientista de Dados em Formação | 🎯 Business Intelligence  | 🚀 Python • SQL • BI | Otimização de Processos 
 
 
 
