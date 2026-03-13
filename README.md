@@ -12,14 +12,7 @@
 
 ## 🚀 Sobre Mim
 
-Analista de Dados / Cientista de Dados em transição, com superior completo em outra área e experiência sólida em operações, análise de processos e liderança.
-
-Atualmente em formação em Ciência de Dados, aplicando Python, SQL, Machine Learning e BI em projetos práticos voltados para análise, modelagem e extração de insights para apoiar decisões estratégicas.
-
-Minha trajetória profissional fortaleceu competências essenciais na área — pensamento analítico, organização, tomada de decisão e comunicação de dados.
-
-Busco oportunidades como Analista de Dados ou Cientista de Dados, contribuindo com soluções analíticas e otimização de processos.
-
+Profissional em formação em Ciência de Dados com experiência prática em análise exploratória, modelagem de dados e aplicação de algoritmos de machine learning para resolução de problemas reais. Atuação na transformação de dados em insights estratégicos por meio de técnicas estatísticas, clustering e visualização de dados. Possuo domínio em Python, bibliotecas de análise e modelagem preditiva, além de experiência na construção de dashboards e análise de indicadores operacionais.
   
 ## 🎓 Trajetória Acadêmica
 
@@ -85,17 +78,17 @@ Busco oportunidades como Analista de Dados ou Cientista de Dados, contribuindo c
 **E-commerce Analytics:**
 Exploração e integração de dados de transações e clientes para insights comerciais.
 
-**Modelo Preditivo de Aluguel:**
-Predição de valores de aluguel com base em dados reais e EDA detalhada.
+**Segmentação de Clientes com Machine Learning | Python:**
+Aplicação de K-Means com avaliação via método do cotovelo e análise de variância entre clusters.
 
-**Credit Scoring:**
-Modelos estatísticos e de ML para previsão de risco de crédito e explicabilidade.
+**Clusterização de Dados Biológicos | Python:**
+Aplicação de técnicas de aprendizado não supervisionado para segmentação de espécies com base em características físicas, incluindo pré-processamento, padronização e visualização de dados.
 
 **Telecom Churn:**
 ETL, análise de rotatividade e métricas estratégicas em cenário real de churn.
 
-**Supermercado – Preços e Descontos:**
-Análise por categoria, padrões de precificação e visualizações profissionais.
+**Dashboard de Vendas Globais de Games | Power BI:**
+Desenvolvimento de dashboard que apoiaram monitoramento de KPIs e análise histórica das vendas globais de videogames, permitindo a identificação de tendências de mercado, sazonalidades e fatores associados ao crescimento e declínio do setor.
 
 
 ## 🛠 Stack Técnica Atual
