@@ -1,5 +1,5 @@
 #  Olá! Eu sou o Diego Kaique
-## 📍 Salvador, BA | 📈 Analista de Dados | Machine Learning | 🎯 Business Intelligence  | 🚀 Python • SQL • BI | 💼 Otimização de Processos 
+## 📈 Analista de Dados | Machine Learning | 🎯 Business Intelligence  | 🚀 Python • SQL • BI | 💼 Otimização de Processos 
 
 
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mim
 
-Analista de dados em formação com experiência prática na análise de indicadores operacionais, tratamento de dados e construção de dashboards gerenciais. Atualmente atuo na transformação de dados em insights estratégicos que apoiam a tomada de decisões e melhorias de processos. Possuo domínio em Python, SQL e Power BI, com experiência em análise exploratória, modelagem de dados e projetos de machine learning aplicados a problemas reais de negócio.
+Analista de dados em transição de carreira, com experiência prática na análise de indicadores operacionais, tratamento de dados e construção de dashboards gerenciais. Atualmente atuo na transformação de dados em insights estratégicos que apoiam a tomada de decisões e melhorias de processos. Possuo domínio em Python, SQL e Power BI, com experiência em análise exploratória, modelagem de dados e projetos de machine learning aplicados a problemas reais de negócio.
   
 ## 🎓 Trajetória Acadêmica
 
