@@ -1,5 +1,5 @@
 #  Olá! Eu sou o Diego Kaique
-## 📈 Analista de Dados | Machine Learning | 🎯 Business Intelligence  | 🚀 Python • SQL • BI | 💼 Otimização de Processos 
+## 🔍 Cientista de Dados | Transformo dados em decisões | Machine Learning • Python • SQL • Power BI | Salvador, BA
 
 
 
@@ -12,13 +12,13 @@
 
 ## 🚀 Sobre Mim
 
-Analista de dados em transição de carreira, com experiência prática na análise de indicadores operacionais, tratamento de dados e construção de dashboards gerenciais. Atualmente atuo na transformação de dados em insights estratégicos que apoiam a tomada de decisões e melhorias de processos. Possuo domínio em Python, SQL e Power BI, com experiência em análise exploratória, modelagem de dados e projetos de machine learning aplicados a problemas reais de negócio.
+Cientista de Dados com foco em projetos reais de Machine Learning e análise preditiva. Tenho experiência prática na construção de pipelines completos de Data Science — da coleta e limpeza de dados até a modelagem, avaliação e entrega de modelos prontos para produção.
+Trabalho com Python, SQL e Power BI para transformar dados complexos em decisões concretas de negócio. Meu projeto principal aplica XGBoost e LightGBM para detecção de fraude em cartão de crédito, com Feature Engineering, SMOTE e otimização de hiperparâmetros — atingindo AUC-PR de 0.8176 em dados com apenas 0,17% de fraudes.
+Tenho background em gestão e análise de processos, o que me permite conectar o resultado técnico ao impacto real para o negócio — não apenas construir modelos, mas explicar o que eles significam para quem toma decisões.
   
 ## 🎓 Trajetória Acadêmica
 
-**📊 Ciência de Dados – EBAC**
-
-` Previsão de conclusão: 2026.1`
+**📊 📊 Ciência de Dados — EBAC | Concluído em 2026**
 
 **🎓 2021 | Superior Completo**
 
@@ -108,6 +108,5 @@ ETL, análise de rotatividade e métricas estratégicas em cenário real de chur
 
 ## 📞 Contato
 
-📧 Email: kaique_0208@hotmail.com
-
-📱 Telefone: (71) 99271-2995
+[![Email](https://img.shields.io/badge/Email-kaique__0208%40hotmail.com-red?logo=gmail)](mailto:kaique_0208@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diego--kaique-blue?logo=linkedin)](https://linkedin.com/in/diego-kaique-9ba3697b)
