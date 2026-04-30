@@ -18,7 +18,7 @@ Tenho background em gestão e análise de processos, o que me permite conectar o
   
 ## 🎓 Trajetória Acadêmica
 
-**📊 📊 Ciência de Dados — EBAC | Concluído em 2026**
+**📊 Ciência de Dados — EBAC | Concluído em 2026**
 
 **🎓 2021 | Superior Completo**
 
