@@ -26,13 +26,6 @@ Tenho background em gestão e análise de processos, o que me permite conectar o
 - Gestão de processos
 - Raciocínio analítico aplicado ao método científico
 
-## 💼 Transição de Carreira
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Transição_Tech-blue?logo=linkedin)]([https://www.linkedin.com/in/diego-kaique-9ba3697b/])
-
-**Por que tecnologia?**  
-> "Da análise corporal à análise de dados: trazendo precisão científica para soluções tecnológicas"
-
-
 ## 🛠️ Habilidades Técnicas
 
 🔹 **Linguagens**
