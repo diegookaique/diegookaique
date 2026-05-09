@@ -68,27 +68,24 @@ Tenho background em gestão e análise de processos, o que me permite conectar o
 ## 📌 Projetos em Destaque
 
 **Predição de Churn de Clientes (Telco) | Python · XGBoost · Optuna · SHAP**
-• Projeto end-to-end de previsão de churn com EDA, feature engineering e modelagem preditiva.
-• Melhor modelo (XGBoost): AUC-ROC 0.847 e Recall 0.818, equivalente a 287 churns detectados e USD 153K estimados em retenção.
-• Aplicação de interpretabilidade com SHAP para explicação individual das previsões.
+- Projeto end-to-end de previsão de churn com EDA, feature engineering e modelagem preditiva.
+- Melhor modelo (XGBoost): AUC-ROC 0.847 e Recall 0.818, equivalente a 287 churns detectados e USD 153K estimados em retenção.
+- Aplicação de interpretabilidade com SHAP para explicação individual das previsões.
 
 **Detecção de Fraude em Transações Financeiras | Python · XGBoost · Scikit-learn**
-• Desenvolvimento de modelo de classificação para detecção de fraudes em dataset altamente desbalanceado (fraudes < 1%).
-• Aplicação de balanceamento de classes e otimização de threshold para maximizar Recall e Precision.
-• Resultado: AUC-PR 0.8176, métrica mais adequada para dados desbalanceados.
+- Desenvolvimento de modelo de classificação para detecção de fraudes em dataset altamente desbalanceado (fraudes < 1%).
+- Aplicação de balanceamento de classes e otimização de threshold para maximizar Recall e Precision.
+- Resultado: AUC-PR 0.8176, métrica mais adequada para dados desbalanceados.
 
 **Previsão de Intenção de Compra Online | Python:**
-• Desenvolvimento de modelo preditivo para identificação de clientes com maior probabilidade de compra em campanhas de marketing digital.
-• Aplicação de análise exploratória e engenharia de features para identificação de padrões comportamentais e segmentação de clientes.
-• Geração de insights estratégicos para priorização de leads e otimização de campanhas de conversão
-
-**Segmentação de Clientes com Machine Learning | Python:**
-Aplicação de K-Means com avaliação via método do cotovelo e análise de variância entre clusters.
+- Desenvolvimento de modelo preditivo para identificação de clientes com maior probabilidade de compra em campanhas de marketing digital.
+- Aplicação de análise exploratória e engenharia de features para identificação de padrões comportamentais e segmentação de clientes.
+- Geração de insights estratégicos para priorização de leads e otimização de campanhas de conversão
 
 **Segmentação de Clientes com Machine Learning | Python**
-• Aplicação de clustering para identificação de perfis de clientes
-• Análise de comportamento para apoio à segmentação de marketing
-• Geração de insights para estratégias direcionadas e personalização
+- Aplicação de clustering para identificação de perfis de clientes.
+- Análise de comportamento para apoio à segmentação de marketing.
+- Geração de insights para estratégias direcionadas e personalização.
 
 
 ## 🛠 Stack Técnica Atual
