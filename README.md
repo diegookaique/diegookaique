@@ -4,7 +4,6 @@
 
 
 [![Brasil](https://img.shields.io/badge/-Brasileiro-009C3B?logo=openstreetmap&logoColor=white)](https://www.gov.br/pt-br)
-[![EBAC](https://img.shields.io/badge/EBAC-Student-8A2BE2?logo=academia&logoColor=white)](https://ebaconline.com.br)
 [![Formação](https://img.shields.io/badge/Superior_Completo-✓-success?logo=graduation-cap)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
