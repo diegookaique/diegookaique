@@ -78,14 +78,14 @@ Tenho background em gestão e análise de processos, o que me permite conectar o
 - Resultado: AUC-PR 0.8176, métrica mais adequada para dados desbalanceados.
 
 **Previsão de Intenção de Compra Online | Python:**
-- Desenvolvimento de modelo preditivo para identificação de clientes com maior probabilidade de compra em campanhas de marketing digital.
-- Aplicação de análise exploratória e engenharia de features para identificação de padrões comportamentais e segmentação de clientes.
-- Geração de insights estratégicos para priorização de leads e otimização de campanhas de conversão
+- Modelo preditivo para identificar clientes com maior probabilidade de compra em campanhas de marketing digital — Acurácia: 93% | Recall: 96% | F1-Score: 0.93.
+- Principais preditores identificados: renda, número de filhos, gasto em produtos premium e frequência de visitas ao site.
+- Resultado: priorização de leads qualificados com redução do custo por conversão e aumento do ROI em campanhas segmentadas.
 
-**Segmentação de Clientes com Machine Learning | Python**
-- Aplicação de clustering para identificação de perfis de clientes.
-- Análise de comportamento para apoio à segmentação de marketing.
-- Geração de insights para estratégias direcionadas e personalização.
+**Segmentação de Clientes com Machine Learning | Python · K-Means**
+- Identificação de 5 perfis distintos de clientes via K-Means, com seleção do número ideal de clusters pelo método do cotovelo. 
+- Análise do comportamento de consumo por segmento: ticket médio, frequência de compra e perfil demográfico de cada grupo. 
+- Geração de recomendações de marketing direcionado por perfil, com potencial de aumento de conversão por segmentação precisa. 
 
 
 ## 🛠 Stack Técnica Atual
