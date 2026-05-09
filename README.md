@@ -77,7 +77,7 @@ Tenho background em gestão e análise de processos, o que me permite conectar o
 - Aplicação de balanceamento de classes e otimização de threshold para maximizar Recall e Precision.
 - Resultado: AUC-PR 0.8176, métrica mais adequada para dados desbalanceados.
 
-**Previsão de Intenção de Compra Online | Python:**
+**Previsão de Intenção de Compra Online | Python · Scikit-learn · Random Forest**
 - Modelo preditivo para identificar clientes com maior probabilidade de compra em campanhas de marketing digital — Acurácia: 93% | Recall: 96% | F1-Score: 0.93.
 - Principais preditores identificados: renda, número de filhos, gasto em produtos premium e frequência de visitas ao site.
 - Resultado: priorização de leads qualificados com redução do custo por conversão e aumento do ROI em campanhas segmentadas.
