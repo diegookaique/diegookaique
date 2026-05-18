@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre Mim
 
-Cientista de Dados com foco em projetos reais de Machine Learning e análise preditiva. Tenho experiência prática na construção de pipelines completos de Data Science — da coleta e limpeza de dados até a modelagem, avaliação e entrega de modelos prontos para produção.
+Analista & Cientista de Dados com foco em projetos reais de Machine Learning e análise preditiva. Tenho experiência prática na construção de pipelines completos de Data Science — da coleta e limpeza de dados até a modelagem, avaliação e entrega de modelos prontos para produção.
 Trabalho com Python, SQL e Power BI para transformar dados complexos em decisões concretas de negócio. Meu projeto principal aplica XGBoost e LightGBM para detecção de fraude em cartão de crédito, com Feature Engineering, SMOTE e otimização de hiperparâmetros — atingindo AUC-PR de 0.8176 em dados com apenas 0,17% de fraudes.
 Tenho background em gestão e análise de processos, o que me permite conectar o resultado técnico ao impacto real para o negócio — não apenas construir modelos, mas explicar o que eles significam para quem toma decisões.
   
