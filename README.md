@@ -1,5 +1,5 @@
 #  Olá! Eu sou o Diego Kaique
-## 🔍 Cientista de Dados | Transformo dados em decisões | Machine Learning • Python • SQL • Power BI | Salvador, BA
+## 🔍 Analista de Dados & Cientista de Dados | Python · SQL · Power BI · Machine Learning | Visão de negócio + Técnica
 
 
 
