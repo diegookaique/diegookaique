@@ -112,5 +112,5 @@ A Fisioterapia foi uma fase de formação, mas foi na coordenação de operaçõ
 
 ## 📞 Contato
 
-[![Email](https://img.shields.io/badge/Email-kaique__0208%40hotmail.com-red?logo=gmail)](mailto:diegookaique@gmail.com)
+[![Email](https://img.shields.io/badge/Email-diegookaique@gmail.com-red?logo=gmail)](mailto:diegookaique@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diego--kaique-blue?logo=linkedin)](https://linkedin.com/in/diego-kaique-9ba3697b)
