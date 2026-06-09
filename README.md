@@ -1,5 +1,5 @@
 #  Olá! Eu sou o Diego Kaique
-## 🔍 Analista de Dados & Cientista de Dados | Python · SQL · Power BI · Machine Learning | Visão de negócio + Técnica
+## 🔍 Analista de Dados | Cientista de Dados | Python | SQL | Power BI | Machine Learning | Analytics e Modelagem Preditiva
 
 
 
@@ -11,9 +11,15 @@
 
 ## 🚀 Sobre Mim
 
-Analista & Cientista de Dados com foco em projetos reais de Machine Learning e análise preditiva. Tenho experiência prática na construção de pipelines completos de Data Science — da coleta e limpeza de dados até a modelagem, avaliação e entrega de modelos prontos para produção.
-Trabalho com Python, SQL e Power BI para transformar dados complexos em decisões concretas de negócio. Meu projeto principal aplica XGBoost e LightGBM para detecção de fraude em cartão de crédito, com Feature Engineering, SMOTE e otimização de hiperparâmetros — atingindo AUC-PR de 0.8176 em dados com apenas 0,17% de fraudes.
-Tenho background em gestão e análise de processos, o que me permite conectar o resultado técnico ao impacto real para o negócio — não apenas construir modelos, mas explicar o que eles significam para quem toma decisões.
+Transformo dados em decisões. Com background em coordenação de operações, desenvolvi um olhar analítico voltado para resultado antes mesmo de migrar formalmente para a área de dados — acompanhando KPIs, diagnosticando gargalos e propondo melhorias com base em evidências.
+
+Hoje, aplico esse contexto de negócio junto a uma formação técnica sólida em Ciência de Dados: construo pipelines de análise em Python, modelos preditivos com XGBoost, dashboards no Power BI e consultas SQL para extração e transformação de dados.
+
+Meu diferencial está na interseção entre quem entende o problema do negócio e quem sabe extrair a resposta dos dados — uma combinação que acelera decisões e gera valor real.
+
+Minha transição para dados não foi por acaso, foi um movimento planejado. Sempre tive afinidade com análise, números e resolução de problemas.
+
+A Fisioterapia foi uma fase de formação, mas foi na coordenação de operações que confirmei o que queria: estava mais interessado nos dados por trás dos processos do que nos processos em si. A partir daí, a decisão foi intencional: estudar Ciência de Dados com profundidade e construir uma carreira sólida na área.
   
 ## 🎓 Trajetória Acadêmica
 
@@ -106,5 +112,5 @@ Tenho background em gestão e análise de processos, o que me permite conectar o
 
 ## 📞 Contato
 
-[![Email](https://img.shields.io/badge/Email-kaique__0208%40hotmail.com-red?logo=gmail)](mailto:kaique_0208@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-kaique__0208%40hotmail.com-red?logo=gmail)](mailto:diegookaique@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diego--kaique-blue?logo=linkedin)](https://linkedin.com/in/diego-kaique-9ba3697b)
